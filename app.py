@@ -30,6 +30,10 @@ class UserRequest(BaseModel):
 # ==============================
 #  Define API Endpoint
 # ==============================
+@app.get("/")
+def read_root():
+    return {"message": "Welcome to the Digital Nomad Sync API!"}
+
 @app.post("/pass/")
 def get_recommendations(user_request: UserRequest):
     recommendations = refine_with_gemini(
