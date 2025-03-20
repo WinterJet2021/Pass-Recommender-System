@@ -1,0 +1,7 @@
+cd "C:\Users\tueyc\CMKL Year 1\Gemini Testing\Algorithm"
+python -m venv venv
+venv\Scripts\activate
+pip install fastapi uvicorn google-generativeai pandas scikit-learn scipy
+uvicorn app:app --reload
+
+>>>>>>> 90d1bd4 (First deployment to Heroku)
