@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import List
 from algorithm import refine_with_gemini, event_df  # Import functions from algorithm.py
+from time_recommendation import match_users_by_time, TimeUserRequest  # New import
 
 app = FastAPI()
 
@@ -46,3 +47,8 @@ def get_recommendations(user_request: UserRequest):
         raise HTTPException(status_code=404, detail="No recommendations found.")
 
     return {"Enhanced Recommendations": recommendations}
+
+@app.post("/time/")
+def get_time_recommendations(user_request: TimeUserRequest):
+    result = match_users_by_time(user_request.user_id)
+    return result

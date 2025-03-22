@@ -12,6 +12,7 @@ h11
 click
 annotated-types
 python-dateutil
+pydantic
 pydantic-core
 anyio
 starlette

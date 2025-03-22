@@ -1,0 +1,51 @@
+User_ID,Basketball,Yoga,Hiking,Cycling,Gym,Swimming,Dancing,Running,Music,Photography,Availability,User Score,Location,Nationality,Languages Spoken,Gender
+1,5,1,3,2,3,5,1,1,2,5,"Thu, Mon, Wed, Fri, Sun",1.7,Ayutthaya,Brazil,"Portuguese, Hindi",Male
+2,1,4,4,4,4,1,5,3,5,3,"Tue, Sat",7.9,Nakhon Si Thammarat,India,"Hindi, English",Male
+3,5,5,1,2,3,2,5,3,2,2,"Tue, Mon, Sat",5.7,Nakhon Si Thammarat,Australia,English,Male
+4,3,1,3,1,4,5,1,4,4,2,"Mon, Tue, Thu",8.2,Khon Kaen,Australia,English,Male
+5,1,2,4,1,2,1,5,4,1,3,"Fri, Mon, Sun",8.5,Lampang,UK,English,Female
+6,5,4,5,4,2,5,1,1,4,5,"Wed, Mon, Sun",5.6,Rayong,Brazil,"Portuguese, Russian",Male
+7,3,1,2,5,4,5,2,2,3,5,"Thu, Tue, Sat, Wed",3.3,Samut Prakan,Netherlands,Dutch,Female
+8,1,2,4,1,3,4,3,1,1,1,"Wed, Fri, Tue, Mon",1.5,Phuket,Brazil,"Portuguese, German, Russian",Male
+9,1,5,2,5,1,2,4,3,3,5,"Sat, Wed",3.0,Rayong,China,"Mandarin, Thai, Dutch",Male
+10,3,4,4,1,3,1,1,2,3,4,"Wed, Mon, Fri",4.8,Pattaya,France,"French, Japanese, German",Female
+11,5,5,5,3,2,1,2,1,1,1,"Wed, Sat, Tue, Thu",2.3,Bangkok,Australia,English,Female
+12,3,4,3,4,3,1,2,4,4,5,"Mon, Sat",4.9,Nakhon Si Thammarat,UK,"English, Russian",Male
+13,5,1,2,1,3,1,4,1,3,2,"Thu, Sun, Sat",9.0,Bangkok,South Korea,Korean,Male
+14,3,4,5,4,5,1,5,4,2,5,"Mon, Fri",5.7,Ayutthaya,Sweden,Swedish,Female
+15,4,2,4,1,3,5,1,2,5,2,"Sun, Thu, Mon, Sat, Wed",1.1,Nakhon Ratchasima,Canada,English,Male
+16,4,5,3,5,1,4,1,3,2,5,"Fri, Mon, Thu",4.1,Khon Kaen,France,French,Female
+17,3,4,3,3,5,4,4,4,2,5,"Fri, Sun, Tue, Thu, Mon",4.3,Ratchaburi,Russia,"Russian, German, French",Male
+18,5,5,5,1,3,1,2,3,2,5,"Mon, Sun, Wed, Thu",4.9,Hat Yai,Thai,"Thai, English",Male
+19,2,1,3,1,5,1,4,1,1,3,"Tue, Mon",5.2,Bangkok,USA,"English, Japanese, Spanish",Female
+20,5,5,3,4,3,5,3,3,3,1,"Fri, Tue, Mon",2.2,Udon Thani,Canada,"English, French, Mandarin",Male
+21,4,2,3,2,3,1,5,4,4,2,"Fri, Mon, Tue",8.5,Lampang,USA,"English, Portuguese",Female
+22,2,2,2,2,4,2,1,2,3,2,"Wed, Mon, Sat, Fri",4.0,Ayutthaya,Brazil,"Portuguese, Mandarin, German",Female
+23,2,2,1,5,1,4,1,4,5,3,"Mon, Thu",6.7,Nakhon Si Thammarat,Russia,Russian,Female
+24,2,5,1,2,1,1,4,3,5,3,"Sat, Tue",8.6,Surat Thani,France,French,Male
+25,1,5,3,4,1,2,3,1,5,2,"Thu, Mon",7.8,Lampang,Japan,"Japanese, Dutch",Male
+26,3,3,4,4,2,4,4,5,2,2,"Fri, Sun, Wed, Sat",10.0,Udon Thani,South Korea,"Korean, German, Japanese",Male
+27,4,3,5,1,1,3,4,1,1,2,"Fri, Thu, Mon, Tue, Sun",6.9,Pattaya,UK,"English, Portuguese, French",Male
+28,2,1,3,3,3,2,1,5,3,3,"Mon, Tue, Sat, Wed, Fri",4.0,Chonburi,Russia,"Russian, French",Female
+29,1,1,3,2,5,3,1,4,2,3,"Sun, Tue, Sat, Wed, Mon",6.7,Phuket,Australia,"English, Mandarin, French",Male
+30,2,3,3,2,3,4,2,2,1,5,"Thu, Tue, Sat, Mon",9.3,Bangkok,Sweden,"Swedish, French, Portuguese",Male
+31,3,3,2,4,2,1,4,1,5,5,"Thu, Sun, Mon, Fri, Sat",2.8,Ayutthaya,South Korea,"Korean, Mandarin, Russian",Male
+32,3,4,2,2,2,1,4,1,5,1,"Mon, Thu",9.4,Ayutthaya,Germany,"German, Dutch",Male
+33,1,4,5,1,2,5,5,4,3,2,"Thu, Mon, Wed, Tue, Fri",5.6,Nakhon Ratchasima,Sweden,"Swedish, Portuguese",Male
+34,4,3,2,2,2,5,1,2,4,1,"Wed, Sun",6.9,Chonburi,France,"French, Spanish",Female
+35,5,5,5,5,4,5,4,5,2,5,"Wed, Fri, Sat",1.8,Hat Yai,Germany,"German, French, English",Male
+36,2,5,2,3,5,3,5,4,2,4,"Thu, Fri, Mon, Sun, Sat",8.6,Ayutthaya,Netherlands,Dutch,Male
+37,4,5,3,4,3,1,4,5,1,1,"Sat, Wed, Mon, Thu",7.4,Ratchaburi,South Korea,Korean,Female
+38,4,4,2,5,4,4,5,5,3,5,"Sat, Mon, Wed",3.9,Lampang,Brazil,"Portuguese, Dutch",Female
+39,4,5,2,2,5,5,5,2,1,4,"Mon, Tue, Thu, Sun",10.0,Hat Yai,Netherlands,"Dutch, French",Male
+40,4,2,4,3,3,3,4,5,5,4,"Wed, Mon, Thu, Tue",2.4,Udon Thani,Sweden,"Swedish, German, Hindi",Male
+41,3,4,1,1,4,3,4,4,2,2,"Thu, Sun, Wed",6.9,Khon Kaen,Thai,Thai,Male
+42,3,3,3,2,2,2,5,5,4,4,"Sun, Sat",7.9,Chiang Mai,Australia,English,Male
+43,3,4,3,3,1,5,1,4,4,5,"Sun, Mon, Sat, Thu",6.3,Samut Prakan,India,"Hindi, Dutch, Mandarin",Male
+44,3,2,3,2,3,3,1,3,2,4,"Sat, Wed, Thu, Fri",5.8,Khon Kaen,Thai,Thai,Male
+45,2,4,4,1,4,2,1,3,3,3,"Sat, Mon",3.8,Rayong,Germany,"German, Swedish",Male
+46,5,1,3,1,4,4,4,2,2,2,"Fri, Tue, Mon",2.0,Nakhon Si Thammarat,Germany,German,Male
+47,1,4,5,1,1,1,2,1,3,5,"Thu, Sat, Fri, Sun",7.3,Chiang Mai,South Korea,Korean,Male
+48,2,3,2,3,4,4,2,4,5,4,"Sun, Mon, Sat, Wed, Thu",3.9,Chonburi,India,Hindi,Male
+49,1,1,4,2,5,1,5,3,5,5,"Sun, Mon, Sat, Wed, Fri",8.1,Nakhon Si Thammarat,Australia,"English, Portuguese, French",Male
+50,2,1,2,5,1,1,2,2,5,3,"Sat, Mon, Sun",5.2,Surat Thani,Australia,English,Male
